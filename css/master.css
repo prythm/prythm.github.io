@@ -1,0 +1,151 @@
+.navbar{
+  background-color: black;
+  font-weight: bold;
+}
+
+.img-profile {
+  padding: 10px;
+  border-radius: 100%;
+  border-radius: 50px;
+  border: 1px solid black;
+}
+
+.col-lg-8 p{
+  padding-top: 5%;
+}
+
+.img-tools {
+  padding: 20px;
+}
+
+
+#carouselExampleDark {
+  padding-bottom: 3%;
+}
+
+.centerFlex {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#intro {
+  background-color: #EFEAD8;
+  background-color: #F1DDBF;
+  text-align: center;
+}
+
+#hobbies {
+  background-color: black;
+  text-align: center;
+}
+
+h3 {
+  padding: 3% 0;
+
+}
+
+h5, h6{
+
+  color: #525E75;
+}
+
+p{
+
+  color: #525E75;
+}
+
+h2 {
+  text-align: center;
+  /* padding-bottom: 7%; */
+  color: #EFEAD8;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.col-spc {
+  margin: 2px;
+  padding: 50px 10px;
+}
+
+.navbar-brand {
+  margin-left: 15px;
+}
+
+.collapse, .navbar-toggler{
+  /* margin-right: 3px; */
+}
+
+.nav-item{
+  text-align: right;
+  margin-right: 15px;
+
+}
+
+.tools {
+  padding: 3% 0;
+  color: #525E75;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+
+
+.card-header {
+  text-align: center;
+  color: #525E75;
+}
+
+.card {
+  width: auto;
+  color: #EFEAD8;
+}
+
+.col-lg-6 {
+  padding-top: 7%
+}
+
+img {
+  padding: 3px 5px;
+}
+
+
+
+.ruler {
+  border: none;
+  border-top: 10px dotted #000;
+  border-color: grey;
+  margin: auto;
+  width: 25%;
+  background-color: #F1DDBF;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.row {
+  width: auto;
+}
+
+.card_div {
+  margin-top: 5%;
+}
+
+body{
+  display: table;
+  background-color: black;
+  padding-bottom: 0;
+  margin: 0;
+  height: 100%;
+}
+
+.carousel-item .p{
+  padding-bottom: 10%;
+}
+.carousel-item p{
+  padding: 0;
+  line-height: 0.15;
+}
